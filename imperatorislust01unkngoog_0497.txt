@@ -1,0 +1,46 @@
+AGENCY. , ’ 485
+
+C: B buys the house: B then assigns his rights against C to A (re-
+sult, A alone is entitled against C); A and C then novate B's debt to
+C by A's promising by stipulation to pay it in lieu os B: (result, C is
+entitled against A alone).
+
+After becoming B's assignee, the principa] (A) at first sued only in
+B’s name, but later he was allowed to sue suo nomine by actio utilis
+(Dig. 3. 3. 553 cf. p. 466 supr.), though his right of action arose only
+upon an actual cessi0, which however, if necessary, he could extort
+from B by aetio mandati: ‘ evictionis actio domino contra venditorem
+invito procuratore non datur, sed per actionem mandati ea cedere
+cogitur' Dig. 41. 2. 49. 2. There is one passage which appearS, in
+direct contradiction to this, to affirm that the principal could sue apart
+from any assignment 3 ‘ quod procurator ex re domini, mandato non
+refragante, stipulatur, invito procuratore dominus petere potest ' Dig.
+3. 3. 68 3 but here most of the commentators are agreed that a ‘ non ’
+has slipped out between petere and potest; and even without resorting
+to this textual emendation one may suppose the passage to mean
+‘whether the agent likes it or not the dominus can sue, because he
+can compel him to make an assignment of his rights of action.'
+Mainly upon the strength of this passage, however, Savigny (Oblig. i.
+243 sq. ; cf. Poste's GaiuS, note on iii. 162) has built up a theory that
+wherever a cessio could be compelled, it was implied or feigned to
+have actually taken place: ergo the principal could always sue by
+actio utilis without the necessity for any actual assignment of the right
+of action: but this has very slender textual authority, and is denied by
+most os Savigny's most eminent successors. It would seem that the
+only cases in which an actio utilis was granted to the principa] with-
+out actual cessio (and that only causa cognita, aster an inquiry into the
+facts) are where the principal is a soldier, Dig. 12. 1. 26, or appoints
+the agent in the presence of the other party, Dig. 45. 1. 7 9, where the
+agent makes stipulations before the magistrate, Dig. 46. 5. 5, and
+finally where otherwise the principal would be seriously prejudiced,
+Dig. 14. 1. 1. 18.
+
+As sor the liabilities arising from the contract made by the agent
+with a third party, none of these directly affected the principal by the
+civil law at all. He was indirectly answerable for them, because
+aster they had been satisfied by the agent the latter could sue him by
+actio mandati contraria for all expenses he had incurred: but if he
+came to stand 'in a direct obligatory relation with the thirdparty, he
+did so only in virtue of an express contract between himself and the
+latter, operating a novation of the agent's debt, not under that which
+

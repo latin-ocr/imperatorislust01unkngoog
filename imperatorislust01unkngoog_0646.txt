@@ -1,0 +1,53 @@
+634 Exc URS σε Χ.
+
+the defendant in exactly that amount; if he awarded a sum either
+greater or less, he was guilty of a quasi-delict, ‘ ut qui litem suam
+feeerit ’ (Bk. iv. 5. pr. supr.). This kind of condemnatio, mentioning a
+specific sum, is found in condictio certi and in actions in factum
+conceptae, which claim a liquidated penalty (as in Gaius iv. 46). In
+all other actions the condemnatio was said to be incerta, and it was
+the judge's duty ‘litem aestimare,' to fix the sum payable by the
+defendant if the plaintiff succeeded in establishing his case. Even
+in condemnatio incerta a distinction has to be drawn. It may be
+absolutely incerta (or, as Gaius calls it in iv. 51, infinita), the judge’s
+discretion in the litis aestimatio being completely unfettered¹: or,
+secondly, a maximum may be fixed in the formula, below which the
+iudex may assess the damages, but which he cannot exceed without
+
+exposing himself to the action quasi ex delicto; here the condemnatio
+was said to be incerta cum taxatione ².
+
+Under the head of Condemnatio it seems convenient to describe
+the actio and formula arbitraria. As a general rule, the condem-
+nation of the defendant depends upon one condition only, and that a
+positive one, viz. satisfactory proof of the plaintiffs right, or of the
+facts alleged in the intentio: si paret . . . , condemna. But sorne-
+times it was made to depend further on a second negative con-
+dition, viz. non-performance by the defendant of some specific act,
+which was introduced into the formula by the word nisi ⁸. Such a
+
+¹ The following are examples. (i) In Real action—si paret . . . Auli Agerii
+esse, quanti ea res est, tantam pecuniam A. Agerio N. Negidium condemna: si
+nou paret, absolve. (ii) Iu Personal action—quod . . ., quicquid paret ob eam
+rem dare facere oportere, eius rei tantam pecuniam condemna: si uon paret,
+absolve.
+
+² E. g. Iudex Α. Agerio·N. Negidium duntaxat sestertium x millia condemna.
+The commouest form of taxatio is where the maximum is fixed in iure by the
+plaintifl' subject to the praetor's approval, as was the case iu the actio iniuriae
+(Gaius iii. 224), and in penal actions in which the penalty depended on the value
+of an object, e.g. in furtum and rapina. There νικας, however, a different kind of
+taxatio in those cases where the defendant was not personally liable for the whole
+of what is properly the object of the action, but (e. g.) only so far as he has been
+enriched at the plaintiff’s eost, or only so far as a peculium extends (actio de
+peculio).
+
+⁸ For examples of formulae arbitrariae see Mr. Poste's note on Gaius iv. 47. What
+actions were arbitrariae is somewhat uncertain. Under them we may place without
+hesitation most real actions, and of remedies in personam those praetorian actions
+which were brought to obtain restitution (e. g. doli, metus) ι for noxa] actions see on
+Bk. iv. 8 supr. From the fact that bonae fidei actions were sometimes called arbitria,
+it has been supposed that their formula was always arbitraria. Mr. Poste thinks
+that only such of them as aimed at restitution (e.g. depositi, commodati, locati, rei
+uxoriae) were of this character. This view is to some extent supported by the
+

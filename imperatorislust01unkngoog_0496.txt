@@ -1,0 +1,46 @@
+484 ’ ’ EXCURS css IX.
+
+Poste on Gaius iii. 103 and 162, maintains that, with the exception os
+stipulation, the only formal contract surviving in Justinian's time, B
+could make any contract for A in the latter’s name, so as to confer
+rights on him alone and enable him alone to sue. This is based on
+Dig. 41. 1. 53 ‘ ea quae civiliter adquiruntur per eos qui in potestate
+nostra sunt adquirimus, veluti per stipulationem: quod naturaliter
+adquiritur, sicuti est possessi0, per quemlibet volentibus nobis possi-
+dere adquirimus.' But in this passage, as has been remarked by
+many writers, it is probable that its author, ModestinuS, wrote manci-
+pationem, not stipulationem, which the compilers of the Digest sub-
+stituted for it as being the only old formal disposition surviving in
+their day ; and it is clear, from its position in the Title ‘ De adquirendo
+rerum domini0,' that it does not relate to contracts at all, but only to
+the question whether anything more than possession in a res corporalis
+could be acquired per extraneam personam: see note on Bk. ii. 9. 5
+supr. But after all, perhaps the best criticism of this theory of Savigny's
+is that of Mr. Hunter, that if the Roman law had really attained to a
+true conception of agency, the fact must have been patent in many
+texts; whereas in point of fact its author is unable to support it by
+any really pertinent textual authority, except the very doubtful passage
+last cited.
+
+Consequently, the agent must make the contract in his own name z
+and the desired effect—the conferring of rightS, and the imposition of
+dtutieS, upon his principal—was first attained only after the introduc·-
+tion of the formulary procedure (Gaius iv. 86, 87) and in a very cum-
+brous and circuitous manner. If (e. g.) A, being at Rome, wished to
+buy a house belonging to C at NapleS, he would give Β (at Naples) a
+mandate to buy it for him. B does 80, and then assigns his rights
+against C to A, i. e. makes him his procurator in rem suam (cf. p. 465
+supr.) ; C’s rights against B, e. g. his claim for the purchase money,
+can be made available against A only by a novatio: if this is not done,
+C, is necessary, must recover from B by actio venditi, and Β from A by
+actio mandati contraria. Here none of the conditione above specified
+are realized. A, so far from alone acquiring rights against C under
+the contraet, acquires them only indirectly as his own agent’s assiguee3
+C acquires rights against A, if at all, not by the eontract of sale, but
+
+-by the novation to which A is himself a party3 and B is in fact the
+principal and true vendee throughout, and the only person who is en-
+titled and bound in that capacity. In short, the desired effect is not
+attained simply by A's making Β his agent, but by a double mandatum
+and a novatio: A makes B his agent sor the proposed purchase from.
+

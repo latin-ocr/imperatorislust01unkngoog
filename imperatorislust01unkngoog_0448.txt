@@ -1,0 +1,53 @@
+436 INSTITUYJONUM LIBRI QUATTUOR. [Lib. 111.
+
+1 ex eo obligatio nec mandati inter vos actio nascitur. Man-
+dantis tantum gratia intervenit mandatum, veluti si quis tibi
+mandet, ut negotia eius gerereS, vel ut fundum ei emereS, vel
+
+2 ut pro eo spondereS. Tua et mandantis, veluti si mandet
+tibi, ut pecuniam sub usuris crederes ei, qui in rem ipsius
+mutuaretur, aut si volente te agere cum eo ex fideiussoria
+causa mandet tibi, ut cum reo agas periculo mandantiS, vel ut
+ipsius periculo stipuleris ab e0‚ quem tibi deleget in id quod
+
+3 tibi debuerat. Aliena autem causa intervenit mandatum,
+
+§L The use of ‘sponderes' is mere pedantry3 in Dig. 17. 1. 2. 1 ;
+ib. 6. 2 ; ib. 8. 8, and other passages relating to this subject, we read only
+of fideiussio, The second of the three instances given here may be
+illustrated thus, Α, becomes surety (fideiussor) to you fo'r B, who owes
+you 50l. : on your proposing to sue him on this eontract of suretyship,
+he commissimus you (mandat) to sue B,· the principal debtor‚ in lieu of
+him at his (A’s) risk. This is to A’s interest, because he is protected
+from your action at any rate for a time, an advantage which he could not
+have otherwise secured, as Nov. 4 had not yet introduced the beneficium
+ordinis (p. 413 supr.) ; and he is altogether so protected if B proves solvent.
+It is to your interest, because the mandate may and. probably will contain
+more favourable conditions than the fideiussio, e. g. the security of a hy-
+potheca (ὑπόθου γὰρ ὅτι ἡ ἐγγὺη γέγονε δίχα ὑποθήκης, τὸ δὲ μάνδατον μετὰ
+ὑποθῆκης Theoph.), and before Justinian's legislation it would have been
+most advantageous to you is you had been in doubt which was solvent,
+A or B, for in virtue os it you could first sue B without risk, and then, if
+he proved to have insufficient assetS, you could sue A by actio mandati,
+which you could not have done by action on the· guaranty‚ because he
+was released as fideiussor by litis contestatio with B. This was remedied
+by Justinian in Cod. 8. 42. 28 ‘generaliter sancimuS, quemadmodum in
+mandatoribus statutum est, ut, contestatione eontra unum ex his facta,
+alter non liberetur, ita et in fideiussoribus observari)
+
+To explain the third instance we will suppose that A owes 501. to B,
+who owes the same sum to C. B gives a commission to C to stipulate
+from A at his (B’s) risk that he (A) will pay him (C) the 501. which he
+owes Β ; ‘ delegare est vice sua alium reum dare creditori vel cui iusserit ’
+Dig. 46. 2. 11. As Mr. Poste points out, the result of this transaction,
+compounded of mandate and stipulation‚ is two novationS, extinguishing
+the original debts os A to Β, and B to C, and ereating two new liabilities‚
+a debt of 501. owed by A to C, and a mandate between B and C under
+which B is guarantor of A3 it is to B’s interest, because he, is released
+from the action on the debt to C, which might have been stricti iuris,
+and to which he was immediately liahIe, and can only be sued, if at all,
+by actio mandati, which is bonae fidei ; it is favourable to C, because he
+thereby gets two debtors (a principa] and a surety) instead of one.
+
+§3. If A commissioned B to do something for C, he had no rights
+

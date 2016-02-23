@@ -1,0 +1,53 @@
+576 INST JT UT IONUM LIBRI QUATTUOR. [Lib. lv.
+
+2 et contra heredes transeunt. Superest ut admoneamuS, quod
+si ante rem iudicatam is cum quo actum est satisfaciat actori,
+officio iudicis convenit eum absolvere, licet iudicii accipiendi
+tempore in ea causa fuisset, ut damnari debeat: et hoc oet,
+quod ante vulgo dicebatur omnia iudicia absolutoria esse.
+
+contractibus successores ex dolo eorum, quibus successerunt, non tantum
+in id quod pervenit, verum etiam in solidum tenentur’ Dig. 44. 7. 12
+(which disproves Theophilus' explanation of this passage by the actio
+depositi) ‘et depositi et commodati et mandati et tutelae et negotiorum
+gestorum ob dolum malum defuncti heres in solidum tenetur,’ ib. 49 ‘ex
+contractibus venientes actiones in heredes dantur, licet delictum quoque
+versetur! It may be that the passage was taken into the text of the
+Institutes from Gaius without the obsolete example which alone could
+give it a semblance of truth 3 but it is better to understand it of cases in
+which fraud was not remediable by the ordinary action on the contract
+(i.e. stricti iuris contracts) but only by the actio doli ; this being sup—
+ported by Dig. 4. 3. 17. 1 ‘haec actio (doli) in heredem datur . . . de eo
+quod ad eos pervenit.’ Upon this interpretation the expression ‘ ex con-
+tractu actio' of course is loose3 all it means is that a delictual action
+arising from fraud in contractual relations lies in heredem only so far as
+the inheritance has been enriched by the fraud itself—a principle which
+has been already stated.
+
+There is no question of transmission when the action has once
+reached the stage of litis contestatio; from that moment, whatever its
+character, it bound and entitled the heirs of the defendant and plaintiff
+respectively in every case.
+
+ξ 2. The truth of the dictum ‘omnia iudicia esse absolutoria’ which
+means that even where the defendant is proved to have been in the
+wrong the trial must end in absolution ‘ si ante rem iudicatam satisfaciat
+actori ² (Gaius iv. 114), had been disputed by the jurists. The Sabinians
+had affirmed it in its entirety3 the other school admitted it in real and
+bonae fidei actions, Gaius loc. cit., but from all others they had excluded
+it as inconsistent with the duty of the iudex as laid down in the formula.
+In this he was instructed to condemn the defendant if he found that, at
+the date of litis contestatio, he was bound by the obligatio alleged by the
+plaintiff : si paret . . . condemna. His duty therefore was plain: no
+occurrence subsequent to litis contestatio could justify him in absolving
+
+· the defendant if the plaintiff made out his case, not even full satisfaction
+of the latter’s claim before the termination of the action. The only
+liability of the defendant which could be cancelled by such satisfaction
+was his liability as it existed before litis contestatio, and that had been
+already destroyed by the novative operation of litis contestatio itself.
+Thus the difficulty which the Proculians felt in admitting the maxim in
+its generality arose entirely from the formula, and consequently with the
+disappearance of the formula the difficulty disappeared aisn, and the rule
+became universal.
+
